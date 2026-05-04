@@ -31,6 +31,7 @@
 
             <input type="submit" value="Зарегистрироваться">
         </form>
+        <p><a href="calculator.php">Перейти к калькулятору</a></p>
     </div>
 </body>
 </html>
